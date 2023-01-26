@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **Salesforce and Programming Languages**
 
-- 👯 I’m looking to collaborate on [linkedin](https://www.linkedin.com/in/bhavishya-basantwani-781345202)
-
-- 🤝 I’m looking for help with **Problem Solving Question , Machine Learning Algorithm and Build Applications With Salesforce**
+- 🤝 I’m looking for help with **Problem Solving Questions , Machine Learning Algorithm and Build Applications With Salesforce**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BhavishyaBasantwani](https://github.com/BhavishyaBasantwani)
 
-- 💬 Ask me about **Data Science , Data Analytic , Programming Languages and Salesforce**
+- 💬 Ask me about **C,Java,Python and Salesforce**
 
 - 📫 How to reach me **Linkedin : [@bhavishya-basantwani](https://www.linkedin.com/in/bhavishya-basantwani-781345202/) | Instagram : [@bhavi_shya](http://instagram.com/bhavi._.shya?utm_source=qr)**
 
