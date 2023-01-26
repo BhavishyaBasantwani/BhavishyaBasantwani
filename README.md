@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Bhavishya Basantwani</h1>
-<h3 align="center">An efficient learner of Programming and Data Science.</h3>
+<h3 align="center">An efficient learner of Programming and Salesforce.</h3>
 
-- 🔭 I’m currently working on [a Project of Card Game Using Python](https://github.com/BhavishyaBasantwani/Games.git)
+- 🔭 I’m currently working on [Techmatrix Consulting]
 
-- 🌱 I’m currently learning **Data Science and Programming Languages**
+- 🌱 I’m currently learning **Salesforce and Programming Languages**
 
 - 👯 I’m looking to collaborate on [linkedin](https://www.linkedin.com/in/bhavishya-basantwani-781345202)
 
-- 🤝 I’m looking for help with **Problem Solving Question and Machine Learning Algorithm**
+- 🤝 I’m looking for help with **Problem Solving Question , Machine Learning Algorithm and Build Applications With Salesforce**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BhavishyaBasantwani](https://github.com/BhavishyaBasantwani)
 
-- 💬 Ask me about **Data Science , Data Analytic and Programming Languages**
+- 💬 Ask me about **Data Science , Data Analytic , Programming Languages and Salesforce**
 
 - 📫 How to reach me **Linkedin : [@bhavishya-basantwani](https://www.linkedin.com/in/bhavishya-basantwani-781345202/) | Instagram : [@bhavi_shya](http://instagram.com/bhavi._.shya?utm_source=qr)**
 
