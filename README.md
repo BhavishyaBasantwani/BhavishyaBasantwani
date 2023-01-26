@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/BhavishyaBasantwani](https://github.com/BhavishyaBasantwani)
 
-- 💬 Ask me about **C,Java,Python and Salesforce**
+- 💬 Ask me about **C, Java, Python and Salesforce**
 
 - 📫 How to reach me **Linkedin : [@bhavishya-basantwani](https://www.linkedin.com/in/bhavishya-basantwani-781345202/) | Instagram : [@bhavi_shya](http://instagram.com/bhavi._.shya?utm_source=qr)**
 
