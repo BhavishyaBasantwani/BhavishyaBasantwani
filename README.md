@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavishya Basantwani</h1>
 <h3 align="center">An efficient learner of Programming and Salesforce.</h3>
 
-- 🔭 I’m currently working on [Techmatrix Consulting]
+- 🔭 I’m currently working at TechMatrix Consulting as a Trainee Software Engineer
 
 - 🌱 I’m currently learning **Salesforce and Programming Languages**
 
